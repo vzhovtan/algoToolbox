@@ -1,1 +1,1 @@
-### Code snippets for the Algorithmic Toolbox Copursera class
+### Code snippets for the Algorithmic Toolbox Coursera class
