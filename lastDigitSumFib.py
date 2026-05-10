@@ -1,5 +1,6 @@
 # Input: An integer n.
 # Output: the last digit of sum F0 + F1 ... + Fn
+
 def lastdigsum(x):
   if x == 0:
     return 0

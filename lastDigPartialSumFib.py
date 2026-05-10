@@ -1,5 +1,6 @@
 # Input: An integer m and n, m < n
 # Output: the last digit of sum Fm + ... + Fn
+
 def lastdigpartsum(n, m):
   a = [0, 1]
   for i in range(2, 60):

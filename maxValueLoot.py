@@ -1,6 +1,7 @@
 # Input: first line is n which is number of compounds and w which is capacity
 # next lines contains cost and weight of the compound
 # Output: max values of compounds which fits into the capacity
+
 def costforunit(c, w):
   if w == 0:
     return 0

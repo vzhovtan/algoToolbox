@@ -1,6 +1,7 @@
 # Input: An integer n.
 # Output: Last digit of sum of squares of Fib numbers
 # num mod 60 gives 60 repeatations in Pisano Series
+
 def pisanonummod60(n):
   previous, current = 0, 1
   n = n % 60

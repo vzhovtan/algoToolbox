@@ -1,5 +1,6 @@
 #Input: A sequence of n non-negative integers.
 #Output: The maximum value and second maximum value
+
 def twomax(arrint):
   max = 0
   secmax = 0

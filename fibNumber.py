@@ -1,5 +1,6 @@
 # Input: An integer n.
 # Output: N-th Fibonacchi number
+
 def fibnumber(x):
   if x == 0:
     return 0

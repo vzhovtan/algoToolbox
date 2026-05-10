@@ -1,5 +1,6 @@
 # Input: An integer a and b
 # Output: The greatest common divisor of a and b
+
 import math
 
 def gcd(a, b):

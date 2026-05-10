@@ -1,5 +1,6 @@
 # Input: intergers d (distance between cities) and m (car can travle on one tank) plus sequense of integers stop1 < stop2 < stopN
-# Output The monimum number of refills to go from one city to another, fueling at stop1, stop2, etc
+# Output The minimum number of refills to go from one city to another, fueling at stop1, stop2, etc
+
 def countHop(dist, miles, ns, stations):
   if dist == 0:
     return 0

@@ -1,5 +1,6 @@
 # Input: An integer n.
 # Output: Last digit of N-th Fibonacchi number
+
 def fib(n):
   f = [0] * 61
   f[0] = 0
